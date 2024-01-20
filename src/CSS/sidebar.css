@@ -1,13 +1,14 @@
 .sidebar{
     background-color: lightcyan;
     left: 0;
-    width: 300px;
+    width: 200px;
+    padding: 20px;;
 }
 
 .sorting--filtering{
     display: flex;
     flex-direction: column;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .sorting{
